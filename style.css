@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgba(255, 217, 0, 0.651);
+    font-family: 'Playfair Display', cursive;
+}
+
+.header_div
+{
+    color: red;
+    background-color:rgba(255, 255, 255, 0.801) ;
+}
+
+.header_div p{
+    color: grey;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Roboto', Serif;
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.801);
+    line-height: 3;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px grey;
+}
+
